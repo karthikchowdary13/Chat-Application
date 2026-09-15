@@ -22,12 +22,6 @@ With a striking **cyber-security-themed UI**, modern glassmorphism elements, and
 - Pre-programmed with extensive knowledge on TCP, UDP, IP, DNS, HTTP/HTTPS, and the OSI Model.
 - **Asynchronous Delays:** The bot simulates a natural "thinking" phase (3-5 seconds delay) before responding to you, giving it a human-like feel.
 
-### 🎨 Stunning Animated UI (Glassmorphism)
-- **Smooth Transitions:** Buttons feature `0.3s` background color transitions on hover.
-- **Auto-Scroll Animation:** The chatbox automatically smoothly scrolls to the newest message whenever someone speaks.
-- **Glassmorphism Aesthetic:** A frosted-glass (`backdrop-filter: blur(12px)`) chat container sitting on top of a dynamic cyber-themed background image.
-- **Message Bubbles:** Client messages pop up in distinct blue bubbles (`#d1f7ff`) aligned to the right, while the bot responds in distinct orange bubbles (`#fff0cc`) aligned to the left.
-
 ## 🛠️ Technology Architecture
 
 ```mermaid
